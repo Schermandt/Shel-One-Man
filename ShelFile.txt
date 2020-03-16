@@ -1,1 +1,2 @@
 This is a test to understand GIT. I have just updated this file added to the repository. File in GitHub on the web, pushed from my local machine.
+Adding another change to test the pull feature
